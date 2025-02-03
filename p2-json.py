@@ -13,7 +13,7 @@ response = chat(
       'content': 'Tell me about Canada.',
     }
   ],
-  model='llama3.1',
+  model='llama3.2',
   format=Country.model_json_schema(),
 )
 
