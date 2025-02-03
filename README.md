@@ -2,9 +2,9 @@
 
 ## Instructions to run the project
 
-```bash
+```powershell
 # activate the virtual environment
-source venv/bin/activate
+.\venv\Scripts\activate
 
 # install the dependencies
 pip install -r requirements.txt
